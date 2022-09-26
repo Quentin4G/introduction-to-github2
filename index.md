@@ -6,5 +6,5 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 
 - [ ] Make the sky red
-- [ ] Be the best
-- [ ] Breath
+- [x] Be the best
+- [x] Breath
